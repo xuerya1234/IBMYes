@@ -8,6 +8,7 @@ on:
 
 jobs:
   ibm-cloud-restart:
+
     runs-on: ubuntu-latest
 
     steps:
